@@ -8,4 +8,10 @@ git push -all
 	 -tasks
 
 #Commande pour pull
-git pull
+git pull "Adresse HTTPS ou clé SSH"
+
+#Ajout d'une branche
+git branch {nom de branche}
+
+#Changer de branch
+git checkout {nom de la branche où aller}
