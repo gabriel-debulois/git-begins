@@ -6,3 +6,6 @@ git clone "Adresse HTTPS ou clé SSH"
 git push -all
 	 -force
 	 -tasks
+
+#Commande pour pull
+git pull
