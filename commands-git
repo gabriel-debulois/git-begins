@@ -1,0 +1,8 @@
+
+#Commande pour cloner un répository
+git clone "Adresse HTTPS ou clé SSH"
+
+#Les 3 commandes de push
+git push -all
+	 -force
+	 -tasks
